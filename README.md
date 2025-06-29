@@ -96,7 +96,7 @@ Laser Cutting Operation
 </p>
   
 <p align="center">
-  <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/blob/main/videos/gifs/Laser1-ezgif.com-video-to-gif-converter.gif" alt="CNC Machine Closeup" width="500"/>
+  <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/blob/main/videos/gifs/Up2-ezgif.com-video-to-gif-converter.gif" alt="CNC Machine Closeup" width="500"/>
 </p>
 
 
