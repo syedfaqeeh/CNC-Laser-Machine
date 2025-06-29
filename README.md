@@ -1,8 +1,8 @@
+<h1 align="center">🛠️ DIY CNC Laser Machine</h1>
+
 <p align="center">
   <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/blob/main/images/cnc%20pic1.jpg" alt="CNC Laser Machine Banner" width="600"/>
 </p>
-
-<h1 align="center">🛠️ DIY CNC Laser Machine</h1>
 
 <p align="center">
   An open-source, low-cost CNC laser engraving machine for makers, students, and engineers. Fully documented with design files, electronics, and firmware setup.
