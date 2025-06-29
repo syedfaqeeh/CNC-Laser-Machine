@@ -31,43 +31,43 @@
   </thead>
   <tbody>
     <tr>
-      <td>Arduino UNO</td>
+      <td>MKS-DLC32 Controler Board</td>
       <td align="center">1</td>
       <td>Main microcontroller</td>
     </tr>
     <tr>
-      <td>CNC Shield v3</td>
+      <td>MKS-TS35 Display</td>
       <td align="center">1</td>
       <td>Stepper interface board</td>
     </tr>
     <tr>
-      <td>A4988 Drivers</td>
-      <td align="center">2–3</td>
+      <td>MKS TMC2209 V2.0 Drivers</td>
+      <td align="center">3</td>
       <td>Motor drivers</td>
     </tr>
     <tr>
       <td>NEMA 17 Stepper Motors</td>
-      <td align="center">2–3</td>
+      <td align="center">4</td>
       <td>For X and Y axes</td>
     </tr>
     <tr>
-      <td>Diode Laser Module</td>
+      <td>80W Laser Module</td>
       <td align="center">1</td>
-      <td>500–700 mW laser</td>
+      <td>450 nm Wavelentth, 10W Laser</td>
     </tr>
     <tr>
       <td>12V Power Supply</td>
       <td align="center">1</td>
-      <td>At least 3A output</td>
+      <td>At least 10A output</td>
     </tr>
     <tr>
       <td>GT2 Timing Belts</td>
-      <td align="center">As needed</td>
+      <td align="center">7ft</td>
       <td>Motion control</td>
     </tr>
     <tr>
       <td>Linear Rails/Bearings</td>
-      <td align="center">As needed</td>
+      <td align="center">2</td>
       <td>For smooth movement</td>
     </tr>
     <tr>
