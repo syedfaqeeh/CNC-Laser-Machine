@@ -106,7 +106,7 @@ Laser Cutting Operation
 ## 🧠 Features
 
 - ✅ Budget-friendly and beginner-friendly
-- ✅ Uses GRBL firmware and Arduino UNO
+- ✅ Uses GRBL firmware and ESP32 controller board
 - ✅ Designed for wood, acrylic, and light materials
 - ✅ Expandable and modifiable frame
 - ✅ Compatible with LaserGRBL, UGS, etc.
@@ -116,20 +116,20 @@ Laser Cutting Operation
 ## ⚙️ Wiring and Circuit Setup
 
 <p align="center">
-  <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/assets/your_circuit_diagram.png" alt="Wiring Diagram" width="600"/>
+  <img src="https://github.com/makerbase-mks/MKS-DLC32/blob/main/MKS-DLC32-main/images/interface.png" alt="Wiring Diagram" width="600"/>
 </p>
 
-1. Connect Arduino UNO with CNC Shield.
-2. Plug A4988 drivers with heat sinks.
-3. Wire motors to the X and Y axis outputs.
-4. Connect the diode laser to D11 (PWM spindle).
+1. Connect MKS-DLC32 with MKS-TS35.
+2. Plug MKS TMC2209 drivers with heat sinks.
+3. Wire motors to the X, Y and Z axis outputs.
+4. Connect the diode laser (PWM spindle).
 5. Connect external 12V power supply for motors and laser.
 
 ---
 
 ## 🖥️ Firmware & Software
 
-- Flash **GRBL** to Arduino UNO.
+- Flash **GRBL** to ESP32.
 - Use **LaserGRBL** or **Universal Gcode Sender** to send commands.
 - Configure GRBL parameters for motion and laser PWM.
 
