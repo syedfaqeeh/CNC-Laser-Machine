@@ -85,11 +85,21 @@
 
 ## 🔍 Project Overview
 
-This CNC laser machine is built with open-source hardware and software. It uses a diode laser for cutting or engraving, controlled via G-code from an Arduino-based controller.
+This CNC laser machine is built with open-source hardware and software. It uses a diode laser for cutting or engraving, controlled via G-code from an ESP32-based controller.
 
 <p align="center">
-  <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/assets/your_build_image.png" alt="CNC Machine Closeup" width="500"/>
+  <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/blob/main/videos/gifs/Laser1-ezgif.com-video-to-gif-converter.gif" alt="CNC Machine Closeup" width="500"/>
 </p>
+
+<p align="center">
+Laser Cutting Operation
+</p>
+  
+<p align="center">
+  <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/blob/main/videos/gifs/Laser1-ezgif.com-video-to-gif-converter.gif" alt="CNC Machine Closeup" width="500"/>
+</p>
+
+
 
 ---
 
