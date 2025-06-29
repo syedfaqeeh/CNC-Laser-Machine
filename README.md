@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/syedfaqeeh/CNC-Laser-Machine/images/cnc pic1.jpg" alt="CNC Laser Machine Banner" width="600"/>
+  <img src=["https://github.com/syedfaqeeh/CNC-Laser-Machine/blob/main/images/cnc%20pic1.jpg"] alt="CNC Laser Machine Banner" width="600"/>
 </p>
 
 <h1 align="center">🛠️ DIY CNC Laser Machine</h1>
